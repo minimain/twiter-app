@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/twiter-app/static/css/main.120037c9.css",
+    "main.js": "/twiter-app/static/js/main.b292e213.js",
+    "index.html": "/twiter-app/index.html",
+    "main.120037c9.css.map": "/twiter-app/static/css/main.120037c9.css.map",
+    "main.b292e213.js.map": "/twiter-app/static/js/main.b292e213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.120037c9.css",
+    "static/js/main.b292e213.js"
+  ]
+}
